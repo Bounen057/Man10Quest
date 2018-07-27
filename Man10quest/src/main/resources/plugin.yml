@@ -1,0 +1,6 @@
+name: Man10Quest
+version: ${project.version}
+main: man10.red.man10quest.Man10Quest
+
+commands:
+  mq:
